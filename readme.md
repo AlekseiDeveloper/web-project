@@ -3,7 +3,7 @@
 Настройка окружения
 
 1)Нужно зайти в git bash и указать путь для той папки где у вас лежат проэкты для работы, после копируем вот этот
-код: <strong>    git clone https://github.com/AlekseiDeveloper/web_develorep.git </strong> или скачать архив, после установки будет создана папка <b>web-project</b>.
+код: <strong>git clone https://github.com/AlekseiDeveloper/web-project.git</strong> или скачать архив, после установки будет создана папка <b>web-project</b>.
 
 2)После как проэкт склонировался вам понадобяться следующие команда
 котрая установить все сависимости проэкта: <b>php composer.phar install</b>
